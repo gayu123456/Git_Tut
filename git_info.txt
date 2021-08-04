@@ -1,2 +1,17 @@
  git status---for seeing status
-git init----
+git init----initilizing a git
+
+working directory
+staging area--->in this we can do changes,or track the changes..
+commit-->whatever chnages are done we can save in this...
+
+git add .
+using this command our files will go working directory to staging area...
+
+
+ git commit -m "commit suceesfully"
+for committing  in "" we can pass any meassage...
+
+ git log
+for who done changes
+
