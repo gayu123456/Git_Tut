@@ -1,0 +1,2 @@
+ git status---for seeing status
+git init----
