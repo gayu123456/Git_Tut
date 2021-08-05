@@ -15,3 +15,9 @@ for committing  in "" we can pass any meassage...
  git log
 for who done changes
 
+git push means---sending our code into git or on internet..
+git pull means--taking code from git or from internet..
+
+ssh and gpy key what does it?
+it gives the access to push the code into remote repository..
+
